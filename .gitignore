@@ -5,3 +5,4 @@ config.py
 adj
 music_map.py
 .DS_Store
+__pycache__/
